@@ -34,7 +34,7 @@ I am a sophmore Software Development student <img src="https://media.giphy.com/m
 
 - :telescope: I'm working on my degree from SUNY Morrisville
 - :milky_way: My dream and passion is making video games
-- :seedling: Exploring how game designers make great gaames
+- :seedling: Exploring how game designers make great games
 - :zap: In my free time, I work on my passion projects and read tech books & articles.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Alex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alex-woods-601980217/)
 
