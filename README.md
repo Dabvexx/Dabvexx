@@ -23,16 +23,31 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="1000" height="250"/>
 </div>
 
 ---
 
 ### :man_technologist: About Me:
-- 👋 Hi, I’m @Dabvexx
-- 👀 I’m interested in Programming, Technology, Software Development, and learning new and interesting topics
-- 🌱 I’m currently learning Artificial Inteligence as well as studying for a degree in software development
-- 📫 How to reach me:
 
-Email: AlexanderWoods2019@gmail.com
-Linkedin: https://www.linkedin.com/in/alex-woods-601980217/
+I am a sophmore Software Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New York.
+
+- :telescope: I'm working on my degree from SUNY Morrisville
+- :milky_way: My dream and passion is making video games
+- :seedling: Exploring how game designers make great gaames
+- :zap: In my free time, I work on my passion projects and read tech books & articles.
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Alex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alex-woods-601980217/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="CSharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity Engine" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
+</div>
