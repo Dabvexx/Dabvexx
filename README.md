@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/alex-woods-601980217/">
+  <a href="https://www.linkedin.com/in/alexander-woods-601980217/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://linktr.ee/dabvexx">
@@ -36,7 +36,7 @@ I am a sophmore Software Development student <img src="https://media.giphy.com/m
 - :milky_way: My dream and passion is making video games
 - :seedling: Exploring how game designers make great games
 - :zap: In my free time, I work on my passion projects and read tech books & articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alex-woods-601980217/) [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexanderjwoods23@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/alex-woods-601980217/](https://www.linkedin.com/in/alexander-woods-601980217/)) [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexanderjwoods23@gmail.com)
 
 ---
 
