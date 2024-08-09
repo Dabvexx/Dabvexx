@@ -30,13 +30,13 @@
 
 ### :man_technologist: About Me:
 
-I am a sophmore Software Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New York.
+I am a Senior Software Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from New York.
 
 - :telescope: I'm working on my degree from SUNY Morrisville
 - :milky_way: My dream and passion is making video games
 - :seedling: Exploring how game designers make great games
 - :zap: In my free time, I work on my passion projects and read tech books & articles.
-- :mailbox:How to reach me: 
+- :mailbox: How to reach me: 
   <a href="https://www.linkedin.com/in/alexander-woods-601980217/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Button"/>
   </a> 
@@ -52,6 +52,7 @@ I am a sophmore Software Development student <img src="https://media.giphy.com/m
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Stuido" alt="VS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity Engine" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot Engine" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
